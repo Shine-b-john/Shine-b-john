@@ -1,7 +1,6 @@
 <h1 align="center"> I'm SHINE B JOHN</h1>
 <h3 align="center">CyberSecurity Researcher | Penetration Tester | CEH (master)v12 | Bug Hunter | CTF Player | Web application pentesting | Network security | Api pentesting | Active directory pentesting | begginer learning from mistakes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shine-b-john&label=Profile%20views&color=0e75b6&style=flat" alt="shine-b-john" /> </p>
 
 - 💬 Ask me about **cybersecurity topics**
 
