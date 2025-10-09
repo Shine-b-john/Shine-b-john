@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **synxshine@gamil.com**
 - TRYHACKME
-<img src="https://tryhackme-badges.s3.amazonaws.com/shineOP.png" alt="Your Image Badge" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/SH1N3.png" alt="Your Image Badge" />
   
 
 <h3 align="left">Connect with me:</h3>
