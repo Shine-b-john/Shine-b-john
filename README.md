@@ -1,5 +1,5 @@
 <h1 align="center"> I'm SHINE B JOHN</h1>
-<h3 align="center">CyberSecurity Researcher | Penetration Tester | CEH (master)v12 | Bug Hunter | CTF Player | Web application pentesting | Network security | Api pentesting | Active directory pentesting | begginer learning from mistakes.</h3>
+<h3 align="center">CyberSecurity Researcher | Penetration Tester | CEH (master)v12 | Bug Hunter | CTF Player | Web application pentesting | Network security | begginer learning from mistakes.</h3>
 
 
 - 💬 Ask me about **cybersecurity topics**
