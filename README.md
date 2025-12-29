@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **synxshine@gamil.com**
 - TRYHACKME
+
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2481196" style='border:none;'></iframe>
   
 
